@@ -67,6 +67,8 @@
 
 .c-progress {
   height: 30px;
+  border: 1px solid #000000;
+  background-color: transparent !important;
 }
 
 .c-progress-bar {
@@ -101,4 +103,8 @@
 
 .clr-orange {
   color: orange;
+}
+
+.o-1 {
+  opacity: 1 !important;
 }
